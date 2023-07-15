@@ -1,4 +1,12 @@
 #include <stdio.h>
+/**
+ * main - Entry point
+ *
+ * Description: Prints all possible combinations of two two-digit numbers
+ * ranging from 00 to 99.
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 int i, j, k, l;

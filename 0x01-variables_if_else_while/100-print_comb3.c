@@ -1,4 +1,13 @@
 #include <stdio.h>
+/**
+ * main - Entry point
+ *
+ * Description:Prints all possible combinations of two digits ranging from0.
+ * The combinations are printed in ascending order.
+ * The numbers are printed with leading zeros if necessary.
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 int i, j;
