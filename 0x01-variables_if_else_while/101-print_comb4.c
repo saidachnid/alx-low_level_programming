@@ -3,7 +3,7 @@
  * main - Entry point
  *
  * Description: Prints all possible different combinations of three digits.
- * The combinations are printed in ascending order, separated by a comma and space.
+ * The combinations are printed in ascending order,
  * The digits must be different, and the smallest combination is printed.
  *
  * Return: Always 0 (Success)
